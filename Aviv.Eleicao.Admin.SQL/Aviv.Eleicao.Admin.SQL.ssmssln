@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# SQL Server Management Studio Solution File, Format Version 11.00
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Aviv.Eleicao.Admin.SQL", "Aviv.Eleicao.Admin.SQL\Aviv.Eleicao.Admin.SQL.ssmssqlproj", "{78D1AC6C-9ED3-4A82-94CA-1B1FBB7229C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78D1AC6C-9ED3-4A82-94CA-1B1FBB7229C4}.Default|Default.ActiveCfg = Default
+		{B58D875C-A974-4BEB-A82B-6FC0F95EF014}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

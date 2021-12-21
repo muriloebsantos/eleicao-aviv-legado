@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Aviv.Eleicao.Admin.SQL">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="MURILO-PC:MURILO-PC\murilo">
+          <Created>2012-12-16T12:53:16.2033578-02:00</Created>
+          <Type>SQL</Type>
+          <Server>MURILO-PC</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>aviv_eleicao</InitialDB>
+          <LoginTimeout>15</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="fn_total_votos_candidato.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MURILO-PC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MURILO-PC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>fn_total_votos_candidato.sql</FullPath>
+        </FileNode>
+        <FileNode Name="objetos.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MURILO-PC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MURILO-PC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>objetos.sql</FullPath>
+        </FileNode>
+        <FileNode Name="sp_gerencia_candidato.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MURILO-PC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MURILO-PC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>sp_gerencia_candidato.sql</FullPath>
+        </FileNode>
+        <FileNode Name="sp_gerencia_eleicao.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MURILO-PC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MURILO-PC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>sp_gerencia_eleicao.sql</FullPath>
+        </FileNode>
+        <FileNode Name="sp_gerencia_eleicao_cargo.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MURILO-PC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MURILO-PC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>sp_gerencia_eleicao_cargo.sql</FullPath>
+        </FileNode>
+        <FileNode Name="sp_gerencia_eleicao_cargo_candidato.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MURILO-PC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MURILO-PC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>sp_gerencia_eleicao_cargo_candidato.sql</FullPath>
+        </FileNode>
+        <FileNode Name="sp_gerencia_voto.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MURILO-PC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MURILO-PC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>sp_gerencia_voto.sql</FullPath>
+        </FileNode>
+        <FileNode Name="sp_rel_eleicao.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MURILO-PC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MURILO-PC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>sp_rel_eleicao.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
